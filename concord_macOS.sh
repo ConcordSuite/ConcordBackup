@@ -95,7 +95,7 @@ do
                         clear && echo "Backing Up $Profile's Desktop"
                         rsync -azhp --exclude '*.exe' --exclude '*.zip' --exclude '*.ini' "$Source"/Desktop "$Destination"/"$CS"/"$Profile"
                         clear && echo "Backing Up $Profile's Downloads"
-                        rsync -azhp --exclude '*.exe' --exclude '*.zip' --exclude '*.ini' "$Source"/Downloads "$DestinationD"/"$CS"/"$Profile"
+                        rsync -azhp --exclude '*.exe' --exclude '*.zip' --exclude '*.ini' "$Source"/Downloads "$Destination"/"$CS"/"$Profile"
                         clear && echo "Backing Up $Profile's Documents"
                         rsync -azhp --exclude '*.exe' --exclude '*.zip' --exclude '*.ini' "$Source"/Documents "$Destination"/"$CS"/"$Profile"
                         clear && echo "Backing Up $Profile's Videos"
