@@ -1,0 +1,9 @@
+Concord Update Text File
+
+Current Version Of Concord
+Concord Backup V1.2
+https://github.com/ConcordSuite/ConcordBackup/releases/download/V1.2/concord_macOS.sh
+
+Old Versions Of Concord
+Concord Backup V1.0 Beta
+https://github.com/ConcordSuite/ConcordBackup/releases/download/v1.0/concord_macOS.sh
