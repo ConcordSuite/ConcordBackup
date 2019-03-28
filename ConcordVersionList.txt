@@ -7,3 +7,5 @@ https://github.com/ConcordSuite/ConcordBackup/releases/download/V1.3/Concord_mac
 Old Versions Of Concord
 Concord Backup V1.0 Beta
 https://github.com/ConcordSuite/ConcordBackup/releases/download/v1.0/concord_macOS.sh
+Concord Backup V1.2 
+https://github.com/ConcordSuite/ConcordBackup/releases/download/V1.2/Concord_macOS.sh
