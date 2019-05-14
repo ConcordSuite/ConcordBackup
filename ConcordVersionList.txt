@@ -2,7 +2,7 @@ Concord Update Text File
 
 Current Version Of Concord
 # Concord_macOS Version 1.4
-
+https://github.com/ConcordSuite/ConcordBackup/releases/download/V1.4/Concord_macOS.sh
 
 Old Versions Of Concord
 Concord Backup V1.0 Beta
