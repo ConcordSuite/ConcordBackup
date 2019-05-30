@@ -14,7 +14,7 @@ Recommended Operating Systems
 
 May Work With Old Operating Systems Like macOS 10.12 or Ubuntu 16.04 (Hasn't Been Verfied)
 
-### Running
+### Starting Concord Backup
 Assumming That You Have Concord.sh In Your Downloads Folder
 
 Step One:
