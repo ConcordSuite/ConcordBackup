@@ -38,4 +38,4 @@ Done!! Concord Should Be Running
 
 ## Authors
 
-* **Christian Smith** - *Initial work* - [ConcordSuite](https://github.com/ConcordSuite)
+* **Christian Smith** - *Creator* - [ConcordSuite](https://github.com/ConcordSuite)
