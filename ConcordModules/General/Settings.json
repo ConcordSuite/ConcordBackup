@@ -1,0 +1,9 @@
+{
+  "concord_backup_settings_location": "",
+  "concord_backup_general_settings_location": "",
+  "concord_backup_gui_settings_location": "",
+  "concord_backup_version_settings_location": "",
+  "concord_backup_macOS_log_location": "var/tmp/concord_backup/Backup_Logs",
+  "concord_backup_windows_log_location": "",
+  "concord_backup_linux_log_location": ""
+}

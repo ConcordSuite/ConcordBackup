@@ -1,0 +1,11 @@
+{
+  "concord_backup_macOS_drive_location": "/Volumes/",
+  "concord_backup_windows_drive_location": "",
+  "concord_backup_linux_drive_location": "",
+  "concord_bootable_macOS_drive_type": "macOS Boot Drive",
+  "concord_non-bootable_macOS_drive_type": "macOS Non Bootable Drive",
+  "concord_bootable_windows_drive_type": "Windows Boot Drive",
+  "concord_non-bootable_windows_drive_type": "Windows Non Bootable Drive",
+  "concord_bootable_linux_drive_type": "Linux Boot Drive",
+  "concord_non-bootable_linux_drive_type": "Linux Non Bootable Drive"
+}
