@@ -38,4 +38,4 @@ Done!! Concord Should Be Running
 
 ## Authors
 
-* **Christian Smith** - [ConcordSuite](https://github.com/ConcordSuite)
+* **NematodeDev** - [ConcordSuite](https://github.com/ConcordSuite)
