@@ -3,3 +3,16 @@ ConcordModules/.DS_Store
 ConcordModules/Data_Index/.DS_Store
 ConcordModules/General/.DS_Store
 .DS_Store
+venv/bin/activate
+venv/bin/activate.csh
+venv/bin/activate.fish
+venv/bin/Activate.ps1
+venv/bin/easy_install
+*.8
+venv/bin/pip
+venv/bin/pip3
+venv/bin/python
+*.iml
+*.xml
+venv/bin/python3
+*.cfg
